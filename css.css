@@ -1,0 +1,122 @@
+
+.cabecalho {
+    background-color: rgb(29, 28, 28);
+    padding: 20px 0;
+    border-bottom:1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.cabecalho figure img {
+   width: 100%;
+   max-width: 190px;
+   margin-left: 10px;
+  
+}
+
+.opcoes {
+
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: rgb(83, 83, 212);
+    color:antiquewhite ;
+    cursor: pointer;
+    border-radius: 10px;
+    border-bottom: 1px solid black;
+}
+
+.inicio {
+    display:flex;
+    margin-right: 20px;
+    margin-left: 10px;
+    
+    
+}
+
+.inicio img {
+    width: 100%;
+    max-width: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+
+.quem {
+    margin-right: 20px;
+}
+
+.quem img {
+    width: 100%;
+    max-width: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    
+}
+
+.quali {
+    margin-right: 20px;
+    display:flex;
+    
+}
+
+.quali img {
+    width: 100%;
+    max-width: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.cont {
+    margin-right: 20px;
+    display: flex;
+}
+
+.cont img {
+
+    width: 100%;
+    max-width: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.redacao {
+    display:flex;
+    background-color: rgb(29, 28, 28);
+    border-radius: 10px;
+    color:antiquewhite;
+    border-bottom: 1px solid black;
+    
+}
+
+.redacao img {
+    margin-left: 10px;
+    border-radius: 10px;
+    
+}
+
+.texto {
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.rodape {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: rgb(10, 10, 10);
+    color:antiquewhite ;
+    border-radius: 10px;
+    border-bottom: 1px solid black;
+    
+}
+
+.roda img {
+    display: flex;
+    width: 100%;
+    max-width: 40px;
+    margin-left: 10px;
+    margin-right: 5px;
+
+}
